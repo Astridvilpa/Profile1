@@ -34,7 +34,7 @@ html {
 .contenedor-header header .logo a {
     font-family: 'Righteous', cursive;
     font-size: 36px;
-    color: #be1aa3;
+    color: #0aa1dd;
     text-decoration: none;
 }
 
@@ -52,11 +52,11 @@ html {
 }
 
 .contenedor-header header nav ul li a:hover {
-    color: #be1aa3;
+    color: #1aabbe;
 }
 
 .nav-responsive {
-    background-color: #be1aa3;
+    background-color: #20abb5;
     color: #fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -85,7 +85,7 @@ html {
 
 .inicio .contenido-banner img {
     margin-top: 40px;
-    border: 10px solid #be1aa3;
+    border: 10px solid #31e4f1;
     display: block;
     width: 80%;
     margin: auto;
@@ -118,7 +118,7 @@ html {
 }
 
 .inicio .contenido-banner .redes a:hover {
-    background-color: #be1aa3;
+    background-color: #1cb4de;
 }
 
 /* SECCION SOBRE MI */
@@ -147,7 +147,7 @@ html {
 }
 
 .sobremi .contenido-seccion p span {
-    color: #be1aa3;
+    color: #27aae2;
     font-weight: bold;
 }
 
@@ -177,12 +177,12 @@ html {
 
 .sobremi .fila .col ul li strong {
     display: inline-block;
-    color: #be1aa3;
+    color: #2ec4ea;
     width: 130px;
 }
 
 .sobremi .fila .col ul li span {
-    background-color: #be1aa3;
+    background-color: #27b3de;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -207,7 +207,7 @@ html {
 }
 
 .sobremi .fila .col .contenedor-intereses .interes:hover {
-    background-color: #be1aa3;
+    background-color: #1d829b;
 }
 
 .sobremi .fila .col .contenedor-intereses .interes i {
@@ -235,7 +235,7 @@ html {
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #be1aa3;
+    background-color: #2872b2;
     z-index: -1;
     transition: 1s;
 }
@@ -295,7 +295,7 @@ html {
 }
 
 .skills .skill .progreso {
-    background-color: #be1aa3;
+    background-color: #3d8dce;
     position: absolute;
     top: 0;
     left: 0;
@@ -309,7 +309,7 @@ html {
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: #be1aa3;
+    background-color: #278ebe;
     border-radius: 50%;
     line-height: 40px;
     text-align: center;
@@ -564,7 +564,7 @@ html {
 }
 
 .curriculum .fila .item .casa {
-    color: #be1aa3;
+    color: #2d92bd;
     font-size: 22px;
     font-weight: bold;
     display: block;
@@ -572,7 +572,7 @@ html {
 
 .curriculum .fila .item .fecha {
     display: block;
-    color: #be1aa3;
+    color: #24b7e0;
     margin-bottom: 10px;
 }
 
@@ -581,18 +581,18 @@ html {
 }
 
 .curriculum .fila .izq {
-    border-right: 2px solid #be1aa3;
+    border-right: 2px solid #20abb5;
     margin-right: 20px;
 }
 
 .curriculum .fila .der {
-    border-left: 2px solid #be1aa3;
+    border-left: 2px solid #20abb5;
     margin-left: 20px;
 }
 
 .curriculum .fila .item .conectori {
     height: 2px;
-    background-color: #be1aa3;
+    background-color: #20abb5;
     width: 47px;
     position: absolute;
     top: 50%;
@@ -605,7 +605,7 @@ html {
     height: 10px;
     width: 10px;
     border-radius: 50%;
-    background-color: #be1aa3;
+    background-color: #20abb5;
     float: right;
     position: relative;
     bottom: 4px;
@@ -613,7 +613,7 @@ html {
 
 .curriculum .fila .item .conectord {
     height: 2px;
-    background-color: #be1aa3;
+    background-color: #20abb5;
     width: 47px;
     position: absolute;
     top: 50%;
@@ -626,7 +626,7 @@ html {
     height: 10px;
     width: 10px;
     border-radius: 50%;
-    background-color: #be1aa3;
+    background-color: #20abb5;
     float: left;
     position: relative;
     bottom: 4px;
@@ -676,7 +676,7 @@ html {
     width: 100%;
     height: 100%;
     text-align: center;
-    background: linear-gradient(#be1aa3, #be1aa3);
+    background: linear-gradient(#20abb5, #20abb5);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -732,7 +732,7 @@ footer .arriba {
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #be1aa3;
+    background-color: #20abb5;
     color: #fff;
     position: absolute;
     left: 50%;
